@@ -1,0 +1,149 @@
+.rate {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-top: 10px;
+}
+
+.rate img {
+  padding: 20px 12px;
+  background-color: #ffcc64;
+  border-radius: 10px;
+}
+
+.first_child {
+  font-weight: 500;
+}
+
+.content_info {
+  position: relative;
+  max-width: 600px;
+  margin-top: 20px;
+}
+.circle_line {
+  position: absolute;
+  top: 25px;
+  left: -60px;
+}
+
+.tool_text {
+  margin-bottom: 30px;
+}
+
+.content_info h1 {
+  font-weight: 700;
+  font-size: 70px;
+  margin-bottom: 20px;
+}
+
+.hero_first {
+  margin: 20px 5px 0 5px;
+}
+
+.yeezy_text {
+  max-width: 500px;
+  font-size: 18px;
+  color: #343434;
+  margin-bottom: 30px;
+}
+
+.content_figures {
+  position: relative;
+}
+
+.content_lines {
+  position: absolute;
+  top: 80px;
+  right: -35px;
+}
+
+.ellipse {
+  margin-top: 50px;
+  width: 550px;
+  height: 550px;
+}
+
+.hero {
+  position: absolute;
+  bottom: -16px;
+  right: -50px;
+}
+
+.content_inner {
+  display: flex;
+  gap: 150px;
+}
+
+.content_play {
+  position: absolute;
+  bottom: 220px;
+  right: -110px;
+  width: 350px;
+  padding: 10px;
+  display: flex;
+  align-items: center;
+  border-radius: 10px;
+  background-color: #fff;
+  justify-content: space-between;
+  box-shadow: 0px 0px 5px 0px rgba(200, 200, 200, 1);
+}
+
+.amount {
+  color: #b9728d;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+.btn_play {
+  background-color: #161616;
+  color: #fff;
+  font-size: 14px;
+  padding: 10px 20px;
+  border-radius: 20px;
+  transition: all 0.3s ease;
+}
+
+.btn_play:hover {
+  border-top-left-radius: 40px;
+  border-bottom-right-radius: 40px;
+}
+
+.hero_list {
+  position: absolute;
+  bottom: 10px;
+  right: 300px;
+  width: 400px;
+  border-radius: 10px;
+  background-color: #ffffff;
+  box-shadow: -4px 1px 11px 0px rgba(200, 200, 200, 1);
+}
+
+.hero_item {
+  display: flex;
+  align-items: center;
+  padding: 20px 30px;
+  justify-content: space-between;
+}
+
+.line {
+  display: block;
+  width: 80%;
+  margin-left: 35px;
+  height: 1px;
+  background-color: #c8c8c8;
+}
+
+.dots {
+  position: absolute;
+  bottom: 0;
+  right: -60px;
+}
+
+.pencil {
+  cursor: pointer;
+  transition: all .3s ease;
+}
+
+.pencil:hover {
+  transform: scale(1.03);
+}
