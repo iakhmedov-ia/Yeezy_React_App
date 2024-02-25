@@ -1,10 +1,10 @@
-## Yeezy
+# Yeezy
 I am sharing the implementation of Yeezy static web page.
 
-## Link
+# Link
 Here is the link to the project: https://yeezy-web.firebaseapp.com
 
-### Screenshot
+# Screenshot
 Here is a result:
 
 ![screenshot](screenshot.png)
